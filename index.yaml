@@ -1,0 +1,37 @@
+apiVersion: v1
+entries:
+  apollo-portal:
+  - apiVersion: v2
+    appVersion: 1.8.0-SNAPSHOT
+    created: "2020-10-12T21:45:10.681443+08:00"
+    description: A Helm chart for Apollo Portal
+    digest: 1cf3821d3283083a4b2128bfd2f396c628cfbe0a5b173f3119aff29062f1b5fa
+    home: https://github.com/ctripcorp/apollo
+    icon: https://raw.githubusercontent.com/ctripcorp/apollo/master/apollo-portal/src/main/resources/static/img/logo-simple.png
+    maintainers:
+    - email: nobodyiam@gmail.com
+      name: nobodyiam
+      url: https://github.com/nobodyiam
+    name: apollo-portal
+    type: application
+    urls:
+    - https://hulucc.github.io/charts/apollo-portal-0.1.0.tgz
+    version: 0.1.0
+  apollo-service:
+  - apiVersion: v2
+    appVersion: 1.8.0-SNAPSHOT
+    created: "2020-10-12T21:45:10.6824784+08:00"
+    description: A Helm chart for Apollo Config Service and Apollo Admin Service
+    digest: cf1f29a3c250d722cee74d253d9cad05302e13f6a2bef458416232d890176b81
+    home: https://github.com/ctripcorp/apollo
+    icon: https://raw.githubusercontent.com/ctripcorp/apollo/master/apollo-portal/src/main/resources/static/img/logo-simple.png
+    maintainers:
+    - email: nobodyiam@gmail.com
+      name: nobodyiam
+      url: https://github.com/nobodyiam
+    name: apollo-service
+    type: application
+    urls:
+    - https://hulucc.github.io/charts/apollo-service-0.2.0.tgz
+    version: 0.2.0
+generated: "2020-10-12T21:45:10.681443+08:00"
